@@ -12,10 +12,10 @@
   - [E-commerce web scraping](https://github.com/Mateus-GSR/Chess-Dataset-Analysis)
   
 - <b>Data visualization project (Google Looker Studio, Google BigQuery)</b>
-  - [Performance Dashboard]([https://github.com/Mateus-GSR/Chess-Dataset-Analysis](https://lookerstudio.google.com/u/0/reporting/f2ed1747-6707-4fbf-9de1-308a888d9f69/page/qgR))
+  - [Performance Dashboard]((https://lookerstudio.google.com/u/0/reporting/f2ed1747-6707-4fbf-9de1-308a888d9f69/page/qgR)
   
 - <b>Google Big Query (SQL, Google BigQuery)</b>
-  - [SQL coding sample]([https://github.com/Mateus-GSR/Chess-Dataset-Analysis](https://github.com/Mateus-GSR/SQL-BigQuery))
+  - [SQL coding sample](https://github.com/Mateus-GSR/SQL-BigQuery)
   
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
