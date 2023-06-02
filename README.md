@@ -27,9 +27,6 @@
 - <b>Web Scraping (Python, BeautifulSoup, Selenium)</b>
   - [E-commerce web scraping](https://github.com/Mateus-GSR/Chess-Dataset-Analysis)
   
-- <b>Data visualization project (Google Looker Studio, Google BigQuery)</b>
-  - [Performance Dashboard](https://lookerstudio.google.com/u/0/reporting/f2ed1747-6707-4fbf-9de1-308a888d9f69/page/qgR)
-  
     <br> 
   
 <h2>💻 My Certifications and Courses:</h2>
