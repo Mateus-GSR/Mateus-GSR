@@ -1,6 +1,6 @@
-<h1>Hi, I'm Mateus! <br/><a href="https://github.com/Mateus-GSR">Data Analyst / Scientist</a>
+<h1>Hi, I'm Mateus! <br/><a href="https://github.com/Mateus-GSR">Data Analyst / Scientist</a> </h1>
 
-    <br> 
+   <br> 
   
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
