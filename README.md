@@ -7,8 +7,7 @@
   
 - <b>Data Engineering YouTube Analysis (Amazon S3, QuickSight, AWS Lambd, AWS IAM, AWS Glue)</b>
   - [End-To-End Data Engineering Project](https://github.com/Mateus-GSR/youtube-analysis-project)
- <br> 
-  <br> 
+
   <br> 
   <br> 
   
@@ -19,6 +18,11 @@
   
 - <b>Chess Dataset Analysis (Python, Pandas, Matplotlib)</b>
   - [Exploratory data analysis](https://github.com/Mateus-GSR/Chess-Dataset-Analysis)  
+ 
+  
+  <br> 
+  <br> 
+  
   
 <h2>👨‍💻 Web Scrapping Projects:</h2>
   
@@ -28,12 +32,15 @@
 - <b>Data visualization project (Google Looker Studio, Google BigQuery)</b>
   - [Performance Dashboard](https://lookerstudio.google.com/u/0/reporting/f2ed1747-6707-4fbf-9de1-308a888d9f69/page/qgR)
   
-  
+    <br> 
+  <br> 
   
 <h2>💻 My Certifications and Courses:</h2>
 
 - [IBM Data Science Professional Certificate](https://www.credly.com/badges/8a5cdaf8-5fc1-46ce-824d-45a1d5d5f01a)
   
+    <br> 
+  <br> 
   
 <h2>🧑🏻‍🏫 I am currenly learning </h2>
 
