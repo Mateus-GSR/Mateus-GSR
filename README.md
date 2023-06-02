@@ -7,7 +7,10 @@
   
 - <b>Data Engineering YouTube Analysis (Amazon S3, QuickSight, AWS Lambd, AWS IAM, AWS Glue)</b>
   - [End-To-End Data Engineering Project](https://github.com/Mateus-GSR/youtube-analysis-project)
-  
+ <br> 
+  <br> 
+  <br> 
+  <br> 
   
 <h2>👨‍💻 Data Analytics Projects:</h2>
   
