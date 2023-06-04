@@ -25,7 +25,10 @@
   
   
 <h2>👨‍💻 Web Scrapping Projects:</h2>
-  
+
+- <b>Web Scraping (Python, BeautifulSoup, Request)</b>
+  - [Metacritic web scraping](https://github.com/Mateus-GSR/metacritic_scrapper/tree/main)
+
 - <b>Web Scraping (Python, BeautifulSoup, Selenium)</b>
   - [E-commerce web scraping](https://github.com/Mateus-GSR/Chess-Dataset-Analysis)
   
